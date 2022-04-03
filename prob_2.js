@@ -20,7 +20,7 @@ const minMovements = (array) =>{
 
 }
 
-let array = [1,3,1,5,2];//[5,2,1,4,8];//[4,2,1,7,3];
+let array = [4,2,1,7,3];//[1,3,1,5,2];//[5,2,1,4,8];
 
 let ans = minMovements(array);
 

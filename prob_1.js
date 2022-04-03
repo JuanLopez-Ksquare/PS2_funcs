@@ -11,7 +11,7 @@ const missingNum = (limit,numArray) => {
     return 0;
 }
 
-let arrayTest = [5,3,6,4,1];
+let arrayTest = [5,3,2,4,1];
 
 const ans = missingNum(7,arrayTest);
 
